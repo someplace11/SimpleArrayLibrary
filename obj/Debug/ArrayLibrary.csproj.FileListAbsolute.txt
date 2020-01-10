@@ -1,0 +1,7 @@
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\obj\Debug\ArrayLibrary.csprojAssemblyReference.cache
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\bin\Debug\ArrayLibrary.exe.config
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\bin\Debug\ArrayLibrary.exe
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\bin\Debug\ArrayLibrary.pdb
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\obj\Debug\ArrayLibrary.exe
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\obj\Debug\ArrayLibrary.pdb

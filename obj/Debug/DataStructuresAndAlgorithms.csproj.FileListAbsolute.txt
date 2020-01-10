@@ -1,0 +1,7 @@
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\bin\Debug\DataStructuresAndAlgorithms.exe.config
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\bin\Debug\DataStructuresAndAlgorithms.exe
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\bin\Debug\DataStructuresAndAlgorithms.pdb
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.csprojAssemblyReference.cache
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.exe
+C:\Users\shawn\source\repos\DataStructuresAndAlgorithms\obj\Debug\DataStructuresAndAlgorithms.pdb
